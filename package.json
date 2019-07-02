@@ -32,6 +32,6 @@
   },
   "readmeFilename": "README.md",
   "dependencies": {
-    "noble": ">=1.8.1"
+    "noble": "git://github.com:DanielsNoJack/noble.git#master"
   }
 }
